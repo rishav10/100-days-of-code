@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: March 28, 2019 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: I've gone through many exercises of Basic Css in Resonsive Web Design on FreeCodeCamp.
