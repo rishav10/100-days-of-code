@@ -8,3 +8,13 @@
 
 **Link to work:** [Link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%200)
 
+
+### Day 1: March 29, 2019
+
+**Today's Progress**: I've completed all the exercises of Basic Css in Resonsive Web Design on FreeCodeCamp.
+
+**Thoughts:**  I liked doing exercises today. It was fun to learn how you can style everything with css.
+
+**Link to work:** [Link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day1)
+
+
