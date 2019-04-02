@@ -38,7 +38,7 @@
 
 
 
-### Day 5: March 1, 2019
+### Day 5: April 1, 2019
 
 **Today's Progress**: I have gone through and completed all the exercises of Applied Accessibility in Resonsive Web Design on FreeCodeCamp.
 
