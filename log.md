@@ -27,3 +27,10 @@
 **Link to work:** [Link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%202)
 
 
+### Day 4: March 31, 2019
+
+**Today's Progress**: I have gone through and completed all the exercises of Applied Visual Design in Resonsive Web Design on FreeCodeCamp.
+
+**Thoughts:** I like the animation exercises of today.
+
+**Link to work:** [Link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%203)
