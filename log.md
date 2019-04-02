@@ -34,3 +34,14 @@
 **Thoughts:** I like the animation exercises of today.
 
 **Link to work:** [Link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%203)
+
+
+
+
+### Day 5: March 1, 2019
+
+**Today's Progress**: I have gone through and completed all the exercises of Applied Accessibility in Resonsive Web Design on FreeCodeCamp.
+
+**Thoughts:** I like how the accessibility is thinked about every type of people.
+
+**Link to work:** [Link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%204)
