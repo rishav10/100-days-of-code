@@ -45,3 +45,14 @@
 **Thoughts:** I like how the accessibility is thinked about every type of people.
 
 **Link to work:** [Link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%204)
+
+
+
+
+### Day 6: April 2, 2019
+
+**Today's Progress**: I have gone through and completed all the exercises of Responsive web design principles and css Flexbox in Resonsive Web Design on FreeCodeCamp.
+
+**Thoughts:** Feeling happy that I have completed it.
+
+**Link to work:** [Link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%205)
