@@ -56,3 +56,13 @@
 **Thoughts:** Feeling happy that I have completed it.
 
 **Link to work:** [Link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%205)
+
+
+
+### Day 7: April 3, 2019
+
+**Today's Progress**: I have gone through and completed all the exercises of CSS GRID in Resonsive Web Design on FreeCodeCamp.
+
+**Thoughts:** :)
+
+**Link to work:** [Link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%206)
