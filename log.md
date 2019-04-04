@@ -66,3 +66,13 @@
 **Thoughts:** :)
 
 **Link to work:** [Link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%206)
+
+
+
+### Day 8: April 4, 2019
+
+**Today's Progress**: I have completed the first project of the Responsive Web Design on freecodecamp which is to build a Tribute page. 
+
+**Thoughts:** I have build the tribute page on Steve Jobs since he is one of my idol. According to me, he is the greatest enterpreneur of all time and he revolutionised the technology industry. Although I have passed all the test cases of the project but there are many things that I wanted to edit and will do it later since today I got no time to do that due to other commitments. I am happy that I build the project and applied the things that I have learned in past days and it was a fun exercie. I also wanted to build a tribute page for Netaji Subash Chandra Bose and Elon Musk (Going to do it when I am free).
+
+**Link to work:** [Link](https://codepen.io/rishav22/pen/LvGvRG)
