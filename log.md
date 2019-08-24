@@ -76,3 +76,14 @@
 **Thoughts:** I have build the tribute page on Steve Jobs since he is one of my idol. According to me, he is the greatest enterpreneur of all time and he revolutionised the technology industry. Although I have passed all the test cases of the project but there are many things that I wanted to edit and will do it later since today I got no time to do that due to other commitments. I am happy that I build the project and applied the things that I have learned in past days and it was a fun exercie. I also wanted to build a tribute page for Netaji Subash Chandra Bose and Elon Musk (Going to do it when I am free).
 
 **Link to work:** [Link](https://codepen.io/rishav22/full/LvGvRG)
+
+
+### Day 9: August 24, 2019restart
+**Today's Progress**: I have restarted the 100daysOfCode from where I have left it after 5 months and done some basic javascript exercises from freecodecamp.
+
+**Thoughts:** Well it feels good to restart what I have left in the middle. Now this time I will surely complete the challenge. I have
+restarted from where I left off and not from start because I think those 8 days I have done the work and I thought it will give me a little bit of confidence to pick it from where I had left it.
+
+**Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%208)
+                  [link](https://github.com/rishav10/javascript_freecodecamp)
+
