@@ -1,0 +1,22 @@
+Declare String Variables
+Passed - Escaping Literal Quotes in Strings
+Passed - Quoting Strings with Single Quotes
+Passed - Escape Sequences in Strings
+Passed - Concatenating Strings with Plus Operator
+Passed - Concatenating Strings with the Plus Equals Operator
+Passed - Constructing Strings with Variables
+Passed - Appending Variables to Strings
+Passed - Find the Length of a String
+Passed - Use Bracket Notation to Find the First Character in a String
+Passed - Understand String Immutability
+Passed - Use Bracket Notation to Find the Nth Character in a String
+Passed - Use Bracket Notation to Find the Last Character in a String
+Passed - Use Bracket Notation to Find the Nth-to-Last Character in a String
+Passed - Word Blanks
+Passed - Store Multiple Values in one Variable using JavaScript Arrays
+Passed - Nest one Array within Another Array
+Passed - Access Array Data with Indexes
+Passed - Modify Array Data With Indexes
+Passed - Access Multi-Dimensional Arrays With Indexes
+Passed - Manipulate Arrays With push()
+Passed - Manipulate Arrays With pop()
