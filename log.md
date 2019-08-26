@@ -87,3 +87,14 @@ restarted from where I left off and not from start because I think those 8 days 
 **Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%208)
                   [link](https://github.com/rishav10/javascript_freecodecamp)
 
+
+### Day 10: August 25, 2019
+**Today's Progress**: I have done some basic javascript exercises from freecodecamp.
+
+**Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%209)
+
+
+### Day 11: August 26, 2019
+**Today's Progress**: I have done some basic javascript exercises from freecodecamp. Tomorrow the basic javascript will be complete.
+
+**Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day%2010)
