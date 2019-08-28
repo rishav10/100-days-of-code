@@ -1,0 +1,28 @@
+ES6
+Introduction to the ES6 Challenges
+PassedExplore Differences Between the var and let Keywords
+PassedCompare Scopes of the var and let Keywords
+PassedDeclare a Read-Only Variable with the const Keyword
+PassedMutate an Array Declared with const
+PassedPrevent Object Mutation
+PassedUse Arrow Functions to Write Concise Anonymous Functions
+PassedWrite Arrow Functions with Parameters
+PassedWrite Higher Order Arrow Functions
+PassedSet Default Parameters for Your Functions
+PassedUse the Rest Operator with Function Parameters
+PassedUse the Spread Operator to Evaluate Arrays In-Place
+PassedUse Destructuring Assignment to Assign Variables from Objects
+PassedUse Destructuring Assignment to Assign Variables from Nested Objects
+PassedUse Destructuring Assignment to Assign Variables from Arrays
+PassedUse Destructuring Assignment with the Rest Operator to Reassign Array Elements
+PassedUse Destructuring Assignment to Pass an Object as a Function's Parameters
+PassedCreate Strings using Template Literals
+PassedWrite Concise Object Literal Declarations Using Simple Fields
+PassedWrite Concise Declarative Functions with ES6
+PassedUse class Syntax to Define a Constructor Function
+PassedUse getters and setters to Control Access to an Object
+PassedUnderstand the Differences Between import and require
+PassedUse export to Reuse a Code Block
+PassedUse * to Import Everything from a File
+PassedCreate an Export Fallback with export default
+PassedImport a Default Export
