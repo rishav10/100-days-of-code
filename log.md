@@ -109,7 +109,7 @@ restarted from where I left off and not from start because I think those 8 days 
 
 
 
-### Day 12: August 28, 2019
+### Day 13: August 28, 2019
 **Today's Progress**: started and completed all the excercises of es6 on freecodecamp today itself.
 
 **Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day_12)
