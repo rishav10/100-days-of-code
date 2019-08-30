@@ -113,3 +113,10 @@ restarted from where I left off and not from start because I think those 8 days 
 **Today's Progress**: started and completed all the excercises of es6 on freecodecamp today itself.
 
 **Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day_12)
+
+
+
+### Day 14 & 15: August [29-30], 2019
+**Today's Progress**: Completed all the excercises of regular expression on freecodecamp.
+
+**Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day_13%26Day_14)
