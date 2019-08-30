@@ -1,0 +1,34 @@
+Regular Expressions
+Introduction to the Regular Expression Challenges
+PassedUsing the Test Method
+PassedMatch Literal Strings
+PassedMatch a Literal String with Different Possibilities
+PassedIgnore Case While Matching
+PassedExtract Matches
+PassedFind More Than the First Match
+PassedMatch Anything with Wildcard Period
+PassedMatch Single Character with Multiple Possibilities
+PassedMatch Letters of the Alphabet
+PassedMatch Numbers and Letters of the Alphabet
+PassedMatch Single Characters Not Specified
+PassedMatch Characters that Occur One or More Times
+PassedMatch Characters that Occur Zero or More Times
+PassedFind Characters with Lazy Matching
+PassedFind One or More Criminals in a Hunt
+PassedMatch Beginning String Patterns
+PassedMatch Ending String Patterns
+PassedMatch All Letters and Numbers
+PassedMatch Everything But Letters and Numbers
+PassedMatch All Numbers
+PassedMatch All Non-Numbers
+PassedRestrict Possible Usernames
+PassedMatch Whitespace
+PassedMatch Non-Whitespace Characters
+PassedSpecify Upper and Lower Number of Matches
+PassedSpecify Only the Lower Number of Matches
+PassedSpecify Exact Number of Matches
+PassedCheck for All or None
+PassedPositive and Negative Lookahead
+PassedReuse Patterns Using Capture Groups
+PassedUse Capture Groups to Search and Replace
+PassedRemove Whitespace from Start and End
