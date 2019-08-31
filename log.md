@@ -128,5 +128,5 @@ restarted from where I left off and not from start because I think those 8 days 
 ### Day 16: August 31, 2019
 **Today's Progress**: Completed all the excercises of debugging section of javascript on freecodecamp.
 
-**Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day_13%26Day_14)
+**Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day_15)
 
