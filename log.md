@@ -130,3 +130,10 @@ restarted from where I left off and not from start because I think those 8 days 
 
 **Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day_15)
 
+
+
+### Day 17: september 7, 2019
+**Today's Progress**: Completed only 10 exercises of basic data structure section of javascript on freecodecamp.
+
+**Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day_16)
+
