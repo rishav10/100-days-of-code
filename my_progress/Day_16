@@ -1,0 +1,12 @@
+Basic Data Structures
+Introduction to the Basic Data Structure Challenges
+PassedUse an Array to Store a Collection of Data
+PassedAccess an Array's Contents Using Bracket Notation
+PassedAdd Items to an Array with push() and unshift()
+PassedRemove Items from an Array with pop() and shift()
+PassedRemove Items Using splice()
+PassedAdd Items Using splice()
+PassedCopy Array Items Using slice()
+PassedCopy an Array with the Spread Operator
+PassedCombine Arrays with the Spread Operator
+PassedCheck For The Presence of an Element With indexOf()
