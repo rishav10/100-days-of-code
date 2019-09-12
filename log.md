@@ -137,3 +137,23 @@ restarted from where I left off and not from start because I think those 8 days 
 
 **Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day_16)
 
+
+
+### Day 18: september 9, 2019
+**Today's Progress**: Completed remaining exercises of basic data structure section of javascript on freecodecamp.
+
+**Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day_17)
+
+
+
+### Day 19: september 10, 2019
+**Today's Progress**: Today I have learnt about unix and completed the course of adapt capgemini.
+
+**Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day_18)
+
+
+### Day 20: september 11, 2019
+**Today's Progress**: Completed all exercises of basic algorithm scripting of javascript on freecodecamp.
+
+**Link to work:** [link](https://github.com/rishav10/100-days-of-code/blob/master/my_progress/Day_19)
+
